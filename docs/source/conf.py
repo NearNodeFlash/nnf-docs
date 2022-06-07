@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Near Node Flash'
+copyright = '2022, Hewlett Packard Enterprise'
+author = ''
 
 release = '0.1'
 version = '0.1.0'
