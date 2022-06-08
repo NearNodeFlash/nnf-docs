@@ -14,8 +14,8 @@ Contents
    :maxdepth: 3
 
    intro
-   user
-   wlm
-   admin
+   user/user
+   wlm/wlm
+   admin/admin
    
    
